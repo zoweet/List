@@ -1,0 +1,75 @@
+body{
+    background-color: tan;
+    padding: 0 50px;
+}
+
+.container{
+    display: flex;
+    height:100%;
+    width: 100%;
+}
+
+.listBar{
+    background-color: #777777;
+    width: 300px;
+    height: 650px;
+
+
+}
+
+.listView{
+    background-color: #cccccc;
+    width: 100%;
+    height: 650px;
+
+}
+
+
+.title{
+    font-size: 60px;
+    /*margin: 50px 20px;*/
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+
+
+}
+
+.inputstyle{
+    font-size: 20px;
+    margin: 50px 20px 0;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.buttonstyle{
+    font-family: 'Indie Flower', cursive;
+    background-color: cornsilk;
+    margin: 5px 20px;
+    font-size: 20px;
+
+}
+
+.completebox{
+    font-family: 'Indie Flower', cursive;
+    padding: 0 20px;
+
+}
+
+.completebox2{
+    font-family: 'Indie Flower', cursive;
+    padding: 0 20px;
+
+}
+
+.todorow {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    height: 40px;
+    align-items: center;
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+
+
+}
